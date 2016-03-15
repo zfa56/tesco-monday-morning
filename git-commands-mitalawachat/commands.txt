@@ -1,0 +1,9 @@
+git clone https://github.com/githubschool/tesco-monday-morning
+cd .\tesco-monday-morning
+git checkout -b git-commands-mitalawachat
+notepad commands.txt
+git status
+git add commands.txt
+git status
+git commit -m 'Initial commit on commands.txt'
+git push -u origin git-commands-mitalawachat
